@@ -1,8 +1,8 @@
-# TDA Lab de [Nadia García]
+# TDA Lab de Nadia García
 
-**[2º Bach A] · Curso 2026-2027**
+**2º Bach A · Curso 2026-2027**
 
-[Aquí voy dejando lo que hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+Aquí voy dejando lo que hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.
 
 ---
 
