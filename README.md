@@ -2,7 +2,7 @@
 
 **2º Bach A · Curso 2026-2027**
 
-Aquí voy dejando lo que hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.
+Aquí quedará reflejado mi trabajo en la asignatura de Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.
 
 ---
 
