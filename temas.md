@@ -9,7 +9,7 @@ la mañana y algún día voy con mis amigos a jugar.
 También llevo desde pequeña en una academia aprendiendo
 inglés, el año pasado me saqué el B2.
 
-Buscando en GitHub he encontrado [TuxGuitar],
+Buscando en GitHub he encontrado [TuxGuitar](https://github.com/first20hours/google-10000-english),
 un programa libre para escribir tablaturas de guitarra.
 
 ![Mi balón de balonmano](capturas/balonmano.jpg)
