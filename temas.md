@@ -12,6 +12,6 @@ inglés, el año pasado me saqué el B2.
 Buscando en GitHub he encontrado [TuxGuitar](https://github.com/first20hours/google-10000-english),
 una página donde puedes aprender hasta 10000 palabras.
 
-![Jugando al tenis](Tenis_Carlos_Alcaraz-2222182244.webp)
+![Jugando al tenis](capturas/Tenis_Carlos_Alcaraz-2222182244.webp)
 
 ---
