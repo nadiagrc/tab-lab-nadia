@@ -24,6 +24,6 @@ TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
 
 ![Leo Messi](capturas/koch.jpg)
 
-Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Leo+Messi&title=Special%3AMediaSearch&type=image)
+Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lionel-Messi-Argentina-2022-FIFA-World-Cup_(cropped).jpg)
 
 ---
