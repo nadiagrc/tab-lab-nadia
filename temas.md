@@ -19,8 +19,7 @@ una página donde puedes aprender hasta 10000 palabras.
 ---
 ### 28/09 · Premios Princesa de Asturias: Leo Messi
 
-TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
-[su página en la Fundación](https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/leo-messi-premio-princesa-de-asturias-de-los-deportes-2026/)
+Leo Messi es un jugador profesional de fútbol que juega actualmente en el Inter de Miami. Este ha sido galardona con el Premio Princesa de Asturias de los Deportes de 2026, debido asu gran desarrollo en el deporte, haciendo que esto sea un ejemplo, para las personas, de los beneficios que otorga el deporte. [Su página en la Fundación](https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/leo-messi-premio-princesa-de-asturias-de-los-deportes-2026/) Lo he elegido porque me gusta el fútbol, y a pesar de que haya jugado en el Barsa, ya que yo soy del Real Madrid, me parece un gran jugador y una gran motivación para todas personas que les guste el deporte.
 
 ![Leo Messi](capturas/koch.jpg)
 
