@@ -20,10 +20,10 @@ una página donde puedes aprender hasta 10000 palabras.
 ### 28/09 · Premios Princesa de Asturias: Leo Messi
 
 TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
-[https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/leo-messi-premio-princesa-de-asturias-de-los-deportes-2026/]
+[su página en la Fundación](https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/leo-messi-premio-princesa-de-asturias-de-los-deportes-2026/)
 
-![Leo Messi](capturas/NOMBRE-DE-TU-IMAGEN.jpg)
+![Leo Messi](capturas/koch.jpg)
 
-Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/...)
+Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Leo+Messi&title=Special%3AMediaSearch&type=image)
 
 ---
