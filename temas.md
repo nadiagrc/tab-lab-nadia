@@ -26,3 +26,11 @@ Leo Messi es un jugador profesional de fútbol que juega actualmente en el Inter
 Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lionel-Messi-Argentina-2022-FIFA-World-Cup_(cropped).jpg)
 
 ---
+### 13/10 · Ada Lovelace
+
+Ada Lovelace fue una matemática y escritora británica muy famosa, esta es considerada la primera persona programadora de la historia. En 1843, tradujo un artículo de un matemático y añadió unas notas propias que triplicaron la longitud del texto, en ellas incluyó el paso a paso para calcular los números de Bernoulli, este es considerado como el primer algoritmo diseñado para ser procesado por una máquina. [Más información de Ada Lovelace en wikipedia.](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+
+---
