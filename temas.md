@@ -32,6 +32,6 @@ Según la página de [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/A
 
 
 ![Retrato de Ada Lovelace](capturas/ada.jpg){: width="300"}
-Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)
+*Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)*
 
 ---
