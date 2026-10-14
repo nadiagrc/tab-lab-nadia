@@ -28,9 +28,9 @@ Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/wik
 ---
 ### 13/10 · Ada Lovelace
 
-Ada Lovelace fue una matemática y escritora británica muy famosa, esta es considerada la primera persona programadora de la historia. En 1843, tradujo un artículo de un matemático y añadió unas notas propias que triplicaron la longitud del texto, en ellas incluyó el paso a paso para calcular los números de Bernoulli, este es considerado como el primer algoritmo diseñado para ser procesado por una máquina. [Más información de Ada Lovelace en wikipedia.](https://es.wikipedia.org/wiki/Ada_Lovelace)
+Ada Lovelace fue una matemática y escritora británica muy famosa, esta es considerada la primera persona programadora de la historia. En 1843, tradujo un artículo del matemático Luigi Menabrea sobre la Máquina Analítica de Charles Babbage y añadió unas notas propias que triplicaron la longitud del texto, en ellas incluyó el paso a paso para calcular los números de Bernoulli, este es considerado como el primer algoritmo diseñado para ser procesado por una máquina. [Más información de Ada Lovelace en wikipedia.](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
-Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+![Retrato de Ada Lovelace](capturas/ada.jpg){: width="300"}
+Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)
 
 ---
