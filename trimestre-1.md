@@ -32,14 +32,14 @@
 ---
 ### 6/11 · Programación
 
-- **Aplicación:** Python
+- **Aplicación:** Thonny
 - **Entregado:** U1_A5_CadenasyListas
 - **Qué hice:** realice varios programas siguiendo las indicaciones del profesor.
 
 ---
 ### 16/11 · Programación
 
-- **Aplicación:** Python
+- **Aplicación:** Thonny
 - **Entregado:** U1_A6_Funciones
 - **Qué hice:** realice varios programas siguiendo las indicaciones del profesor.
 
