@@ -36,12 +36,11 @@ Según la página de [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/A
 ---
 ### 27/11 · Voyager 1
 
-TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
 Según la página de [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1), la Voyager 1 es una sonda espacial de la NASA que fue lanzada el 5 de Septiembre de 1977 para explorar los planetas más alejados del Sistema Solar. Actualmente es noticia porque el 18 de noviembre de 2026 se convirtió en el primer objeto creado por el ser humano en alcanzar una distancia de un día luz de la Tierra. Una curiosidad es que lleva un disco de oro con sonidos, imágenes y saludos de nuestro planeta, por si alguna civilización extraterrestre la encuentra.
 
 | Dato | Voyager 1 |
 |---|---|
-| Lanzamiento | 5/9/1977 |
+| Lanzamiento | 5 de septiembre de 1977 |
 | Distancia a la Tierra | 2.592 10 km |
 | Velocidad | 61.000 km/h |
 | Lo que tarda su señal en llegar | 24 horas |
@@ -52,9 +51,9 @@ Según la página de [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voya
 
 **Mi Disco de Oro 2026**
 
-- **Lo que pondría:** IMAGEN, CANCIÓN Y/O FRASE.
-- **En qué idioma:** IDIOMA.
-- **En qué formato:** FORMATO.
+- **Lo que pondría:** Pondría el himno de españa.
+- **En qué idioma:** No tiene letra por lo que el idioma no es un problema.
+- **En qué formato:** En un vinilo con un toca discos, ya que no es muy difícil de usar.
 
 ---
 
