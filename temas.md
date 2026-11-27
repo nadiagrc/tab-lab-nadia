@@ -41,7 +41,7 @@ Según la página de [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voya
 | Dato | Voyager 1 |
 |---|---|
 | Lanzamiento | 5 de septiembre de 1977 |
-| Distancia a la Tierra | 2.592 10 km |
+| Distancia a la Tierra | casi 26.000 millones de km |
 | Velocidad | 61.000 km/h |
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
