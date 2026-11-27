@@ -30,8 +30,31 @@ Imagen: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/wik
 
 Según la página de [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace), esta fue una matemática y escritora británica muy famosa, es considerada la primera persona programadora de la historia. En 1843, tradujo un artículo del matemático Luigi Menabrea sobre la Máquina Analítica de Charles Babbage y añadió unas notas propias (Notas G) que triplicaron la longitud del texto, en ellas incluyó el paso a paso para calcular los números de Bernoulli, este es considerado como el primer algoritmo diseñado para ser procesado por una máquina. Su día se celebra el segundo martes de Octubre para dar voz a los logros de las mujeres en los campos de ciencia, tecnoogía, ingeniería y matemáticas.
 
-
 ![Retrato de Ada Lovelace](capturas/ada.jpg){: width="300"}
 *Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)*
 
 ---
+### 27/11 · Voyager 1
+
+TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
+Según la página de [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1), la Voyager 1 es una sonda espacial de la NASA que fue lanzada el 5 de Septiembre de 1977 para explorar los planetas más alejados del Sistema Solar. Actualmente es noticia porque el 18 de noviembre de 2026 se convirtió en el primer objeto creado por el ser humano en alcanzar una distancia de un día luz de la Tierra. Una curiosidad es que lleva un disco de oro con sonidos, imágenes y saludos de nuestro planeta, por si alguna civilización extraterrestre la encuentra.
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 5/9/1977 |
+| Distancia a la Tierra | 2.592 10 km |
+| Velocidad | 61.000 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+
+![Voyager 1](capturas/voyager.jpg){: width="300"}
+*Imagen: NASA/JPL, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=voyager+1&title=Special%3AMediaSearch&type=image)*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** IMAGEN, CANCIÓN Y/O FRASE.
+- **En qué idioma:** IDIOMA.
+- **En qué formato:** FORMATO.
+
+---
+
