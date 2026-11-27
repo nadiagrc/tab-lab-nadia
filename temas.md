@@ -47,7 +47,7 @@ Según la página de [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voya
 | Años de viaje | 49 años |
 
 ![Voyager 1](capturas/voyager.jpg){: width="300"}
-*Imagen: NASA/JPL, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=voyager+1&title=Special%3AMediaSearch&type=image)*
+*Imagen: NASA/JPL, [Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/960px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)*
 
 **Mi Disco de Oro 2026**
 
